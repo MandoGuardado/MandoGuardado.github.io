@@ -1,0 +1,59 @@
+body {
+    font-family: Lucida Sans Unicode;
+  }
+  .title {
+    font-size: 60px;
+  }
+  .subTitle {
+    font-size: 23px;
+  }
+  input {
+    line-height: 3em;
+    width: 20em;
+    font-size: 18px;
+  }
+  
+  .banner {
+    margin: 0;
+    background-color: #e9ecef;
+    height: 300px;
+    font-family: Courier New;
+  }
+  .header {
+    padding: 50px 50px;
+    text-align: center;
+  }
+  
+  .listButton {
+    background-color: #24a0ed; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 150px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+  }
+  
+  .leftSide {
+    padding: 40px;
+    max-width: 40%;
+    float: left;
+  }
+  
+  .rightSide {
+    margin: auto;
+    padding: 50px;
+    max-width: 60%;
+    text-align: center;
+  }
+
+  .cardStyles{
+    padding:5px;
+    margin:10px;
+  }
+  .mainCardStyle{
+    width: 14rem;
+  }
+  
